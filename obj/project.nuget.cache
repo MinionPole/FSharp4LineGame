@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dPCdQcM3YiFJY/sNY2+IfJQWsfEoHeTrn44XdWfY11L8rVp02BvTb074ZrCa+BgeS4h1hqUMcb22VchWG9Ve9w==",
+  "success": true,
+  "projectFilePath": "/home/roman/labs/F#/lab4/FSharp4LineGame/lab4.fsproj",
+  "expectedPackageFiles": [
+    "/home/roman/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
