@@ -130,12 +130,16 @@ let rec gameLoop board player1Turn (player1Color: Color) (player2Color: Color) =
 
 Смена цвета
 до
+
 ![цвета до](./img/colour_before.png)
 после
+
 ![цвета после](./img/colour_after.png)
 
 Игровой процесс в на стандартном поле
+
 ![оба метода](./img/gmpl_std.png)
 
 Игровой процесс в на измененном поле
+
 ![оба метода](./img/gmpl_another.png)
